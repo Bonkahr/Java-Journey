@@ -1,0 +1,15 @@
+.idea
+**/.idea
+**/out
+**/*.iml
+**/build
+**/libs
+**/*.gradle
+**/*.pro
+flutter
+**/test
+android
+**/*.toml
+**/*.lock
+**/venv
+venv
